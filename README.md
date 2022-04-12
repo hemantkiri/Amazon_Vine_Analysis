@@ -8,18 +8,18 @@ I have selected to get the data for the Video Games.
 
 ## Results
 ## The customers table DataFrame
-![The customers table DataFrame]( The_customers_table_DataFrame.png)
+![The customers table DataFrame](The_customers_table_DataFrame.png)
 
 ## The products table DataFrame
-![ The products table DataFrame]( The_products_table DataFrame.png)
+![The products table DataFrame](The_products_table DataFrame.png)
 
 ## The review id table DataFrame
-![ The review id table DataFrame]( The_review_id_table_DataFrame.png)
+![The review id table DataFrame](The_review_id_table_DataFrame.png)
 ![review id table](review_id_table.png)
 
 
 ## The vine_table DataFrame
-![ The vine table DataFrame]( The_vine_table_DataFrame.png)
+![The vine table DataFrame](The_vine_table_DataFrame.png)
 
 ## Total members reviews
 ![Total members reviews](Total_members_reviews.png)
